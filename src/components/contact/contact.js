@@ -4,7 +4,7 @@ class Contact extends Component {
     constructor(props) {
         super(props);
         this.state = {
-            person: { 'name': 'Neha Dubey', 'address': 'K.R.Puram, Bangalore', 'contact': '8299358319', 'email': 'imnehadubey90@yahoo.com' },
+            person: { 'name': 'Neha Dubey', 'address': 'K.R.Puram, Bangalore', 'contact': '8299358000', 'email': 'imneha@gmail.com' },
         };
     }
     render() {

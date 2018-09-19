@@ -23,12 +23,12 @@ class Content extends Component {
                         <span>S</span>
                     </h5><br/><br/>
                 </div>
-                <div className="row" style={{fontSize: 19 }}>
+                <div className="row" style={ { fontSize: 19 } }>
                     <div className="col-md-2"></div>
                     <div className="col-md-8">
                         <p>
                             Searching for learning subjects with basic concepts, then you came to
-                            right place. <span className="rainbow" style={{backgroundColor: 'black'}}>ShiKsha</span> tutorial provides all
+                            right place. <span className="rainbow" style={ { backgroundColor: 'black' } }>ShiKsha</span> tutorial provides all
                             the study materials and full guidance to students to improve their basics and makes them
                             capable of performing well in all aspects of studies.
                         </p>

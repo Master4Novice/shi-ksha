@@ -4,7 +4,7 @@ class Details extends Component {
     render() {
         return (
             <div className="col-sm-8">
-                <p style={{fontSize: '140%'}}>
+                <p style={ { fontSize: '140%' } }>
                     <br/><br/>&nbsp;We offer learning for the students from class VI to XII.<br/>&nbsp;Subjects that we provide tutions for:<br/><br/>
                 </p>
                 <h4>&nbsp;CLASS VI-X:</h4>

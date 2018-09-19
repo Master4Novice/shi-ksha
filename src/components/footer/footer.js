@@ -6,7 +6,7 @@ class Footer extends Component {
     render() {
         return (
             <Navbar color="dark" dark expand="lg" fixed="bottom">
-                <div className="text-center" style={{color: 'yellow', width: '100%'}}>
+                <div className="text-center" style={ { color: 'yellow', width: '100%' } }>
                     <FontAwesomeIcon icon="copyright" />&nbsp;<span>copyright @ ShiKsha 2018</span>
                 </div>
             </Navbar>

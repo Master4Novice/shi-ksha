@@ -18,8 +18,8 @@ class Header extends Component {
         return (
             <Navbar color="dark" dark expand="lg" fixed="top">
                 <NavbarBrand href="/"><span className="rainbow">ShiKsha</span></NavbarBrand>
-                <NavbarToggler onClick={this.toggle} />
-                <Collapse isOpen={this.state.isOpen} navbar>
+                <NavbarToggler onClick={ this.toggle } />
+                <Collapse isOpen={ this.state.isOpen } navbar>
                     <Nav navbar>
                         <NavItem>
                             <NavLink href="/assignments">Assignments</NavLink>

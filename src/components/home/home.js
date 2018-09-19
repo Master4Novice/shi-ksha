@@ -9,7 +9,7 @@ import './home.css';
 class Home extends Component {
     render() {
         return (
-            <div className="row" style={{color: 'white'}}>
+            <div className="row" style={ { color: 'white' } }>
                 <div className="col-md-12">
                     <div className="row">
                         <Content/>
